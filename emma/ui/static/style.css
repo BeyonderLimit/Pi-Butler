@@ -1,0 +1,42 @@
+body {
+    background: #0d1b2a;
+    color: #e0e1dd;
+    font-family: 'Orbitron', sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    color: #00b4d8;
+    border-bottom: 1px solid #1b263b;
+}
+
+#console {
+    margin: 20px;
+    padding: 20px;
+    background: #1b263b;
+    height: 350px;
+    overflow-y: auto;
+    border-radius: 8px;
+}
+
+input {
+    width: 80%;
+    margin: 20px auto;
+    display: block;
+    padding: 15px;
+    border: none;
+    background: #1b263b;
+    color: #e0e1dd;
+}
+
+#micButton {
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+    background: #0077b6;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}

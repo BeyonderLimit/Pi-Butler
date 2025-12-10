@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sounddevice
+vosk
+piper-tts
+apscheduler
+onnxruntime
+pyttsx3
+python-multipart
